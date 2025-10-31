@@ -1,0 +1,9 @@
+{
+  "name": "St Ives 4 Foodies",
+  "short_name": "SI4F",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b2343",
+  "theme_color": "#0b2343",
+  "icons": []
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stives4foodies.co.uk/sitemap.xml
